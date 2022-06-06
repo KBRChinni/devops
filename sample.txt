@@ -1,4 +1,0 @@
-"Practicing my git"
-vi filename	"To add or edit contents in file
-
-
