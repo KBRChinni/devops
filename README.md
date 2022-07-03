@@ -1,4 +1,4 @@
 # devops
 Learning Devops April 
 </br>
-Most changes in master branch
+Most changes done in master branch
